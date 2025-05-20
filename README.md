@@ -145,9 +145,14 @@ If you like this project give it a star
 
 This project is implemented based on the following Dataset:
 
-- Author(s): Fabio Mendoza Palechor, Alexis de la Hoz Manotas
-- Title: Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexi
-- Published in: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352340919306985?via%3Dihub)
+- Author(s): M Murugappan*1
+ Vasanthan Maruthapillai2
+ Wan Khariunizam3
+ A M Mutawa4
+ Sai Sruthi1 Chong Wen Yean3
+- Title:Virtual Markers based Facial Emotion Recognition
+using ELM and PNN Classifiers 
+- Published in: [ResearchGate]([https://www.sciencedirect.com/science/article/pii/S2352340919306985?via%3Dihub](https://www.researchgate.net/publication/340698045_Virtual_Markers_based_Facial_Emotion_Recognition_using_ELM_and_PNN_Classifiers))
 
 
 
